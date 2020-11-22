@@ -4,6 +4,11 @@
   font-weight: 200;
 }
 
+
+body {
+  direction: rtl;
+}
+
 .content time {
   color: #9b9b9b;
 }
